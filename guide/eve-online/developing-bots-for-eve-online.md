@@ -127,7 +127,7 @@ After saving the changed file, invoke Elm with the same command again. Now we ge
 
 For development, we don't need to use the Elm program directly, but other tools depend on it. The tools we set up next automate the process of starting the Elm program and presenting the results inside a code editor.
 
-### Visual Studio Code
+### Visual Studio Code (This is a stand alone program and is not the same as Visual Studio 2019)
 
 Visual Studio Code is a software development tool from Microsoft, which also contains a code editor. This is not the same as 'Visual Studio', a commercial product from Microsoft. Visual Studio Code is abbreviated as 'VSCode' throughout this guide. To set it up, use the installer from https://code.visualstudio.com/download
 
